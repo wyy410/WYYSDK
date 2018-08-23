@@ -1,0 +1,6 @@
+framework module Pods_LPodSDKTest_Example {
+  umbrella header "Pods-LPodSDKTest_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

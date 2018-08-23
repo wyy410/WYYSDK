@@ -1,0 +1,16 @@
+PODS:
+  - LPodSDKTest (0.1.0)
+
+DEPENDENCIES:
+  - LPodSDKTest (from `../`)
+
+EXTERNAL SOURCES:
+  LPodSDKTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LPodSDKTest: 2a8b8b07d31fd7a873c6136dc26d53812b4d7c8f
+
+PODFILE CHECKSUM: 38bf6d57db92ad685c19b3fd87cf9c5d729dc530
+
+COCOAPODS: 1.5.3
